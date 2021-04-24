@@ -1,0 +1,5 @@
+name: Anty_Faworyzacja
+version: ${project.version}
+main: pl.barthvisuals.antyfaworyzacja.Main
+api-version: 1.16
+author: BarthVisuals
